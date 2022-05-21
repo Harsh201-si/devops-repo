@@ -1,4 +1,5 @@
 @isTest
+// second change
 public class DupliContactTriggerHandlerTestClass {
     @isTest
     public static void contactCheck(){
