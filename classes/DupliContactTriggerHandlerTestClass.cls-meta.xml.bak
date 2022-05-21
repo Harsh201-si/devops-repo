@@ -2,7 +2,4 @@
 <ApexClass xmlns="http://soap.sforce.com/2006/04/metadata">
     <apiVersion>54.0</apiVersion>
     <status>Active</status>
-	
-	<!--info>This is a xml file of a test class</info-->
-	
 </ApexClass>
